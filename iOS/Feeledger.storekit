@@ -1,0 +1,29 @@
+{
+  "identifier": "MASTER",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "6.99",
+      "familyShareable": false,
+      "internalID": "feeledger_pro",
+      "localizations": [
+        {
+          "description": "Due-date reminder alerts",
+          "displayName": "Feeledger Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "feeledger_pro",
+      "referenceName": "Feeledger Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
